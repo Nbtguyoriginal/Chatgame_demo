@@ -26,7 +26,7 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
 
 ---
 
-## Dive into the Adventure 🌌
+## Dive into the Adventure 
 
 ![Mage with wand](https://images.ctfassets.net/usf1vwtuqyxm/5DIhpKUsxSjdNUnosbvqy7/ded32d8c59c7338083b444ca73872a8c/hogwarts-legacy-desktop.jpg?fm)
 
