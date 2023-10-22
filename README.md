@@ -1,3 +1,17 @@
+# Table of Contents
+
+1. [Introduction](#chatgpt-rpg-an-interactive-text-based-adventure-🏰🐉)
+2. [Game Status](#🔵-game-status)
+3. [Dive into the Adventure](#🌌-dive-into-the-adventure)
+4. [Game Overview & Mechanics](#📜-game-overview--mechanics)
+5. [Characters & Classes](#🏹-characters--classes)
+6. [Combat & Magic](#🐉-combat--magic)
+7. [World & Setting](#🌍-world--setting)
+8. [Contributing](#🙏-contributing)
+9. [License](#📜-license)
+10. [Contact](#📞-contact)
+11. [Acknowledgements](#🌟-acknowledgements)
+
 # ChatGPT RPG: An Interactive Text-Based Adventure 🏰🐉
 
 ![Stoic male looking at ancient ruins](https://sm.ign.com/ign_nordic/news/t/techland-r/techland-reveals-first-concept-art-of-its-open-world-fantasy_sy98.jpg)
@@ -35,7 +49,7 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
                 <p>Once on Pastebin, select and copy all of the text.</p>
                 <details>
                     <summary>3. Navigate to OpenAI</summary>
-                    <p>In your address bar, head over to the <a href="https://auth0.openai.com/u/login/identifier?state=hKFo2SBNUTJZSVJZTmgtbWdaLW41OHBZRWdDMFk1ZGhkTWFaMaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGtiUGlSeERnazA3N3lJMTJZWmFSeWFMSG9ZX1Fwby1Yo2NpZNkgRFJpdnNobTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q" target="_blank">OpenAI login page</a>.</p>
+                    <p>In your address bar, head over to the <a href="https://auth0.openai.com" target="_blank">OpenAI login page</a>.</p>
                     <details>
                         <summary>4. Login to OpenAI</summary>
                         <p>Use your OpenAI credentials to log in.</p>
@@ -53,7 +67,6 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
         </details>
     </details>
 </div>
-
 
 
 ![A scenic overview of the countryside with a carriage and gracious hills](https://i0.wp.com/news.qoo-app.com/en/wp-content/uploads/sites/3/2023/05/QooApp_Project-ME_-0.jpeg?resize=900%2C394&ssl=1)
