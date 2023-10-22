@@ -12,7 +12,7 @@
 10. [Contact](#contact)
 11. [Acknowledgements](#acknowledgements)
 
-# Introduction 🏰🐉
+#introduction 🏰🐉
 # ChatGPT RPG: An Interactive Text-Based Adventure 
 
 ![Stoic male looking at ancient ruins](https://sm.ign.com/ign_nordic/news/t/techland-r/techland-reveals-first-concept-art-of-its-open-world-fantasy_sy98.jpg)
