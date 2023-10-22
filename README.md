@@ -1,16 +1,16 @@
 # Table of Contents
 
-1. [Introduction](#introduction-🏰🐉)
+1. [Introduction](#introduction)
 2. [Game Status](#game-status-🔵)
-3. [Dive into the Adventure](#dive-into-the-adventure-🌌)
-4. [Game Overview & Mechanics](#game-overview-mechanics-📜)
-5. [Characters & Classes](#characters-classes-🏹)
-6. [Combat & Magic](#combat-magic-🐉)
-7. [World & Setting](#world-setting-🌍)
-8. [Contributing](#contributing-🙏)
-9. [License](#license-📜)
-10. [Contact](#contact-📞)
-11. [Acknowledgements](#acknowledgements-🌟)
+3. [Dive into the Adventure](#dive-into-the-adventure)
+4. [Game Overview & Mechanics](#game-overview-mechanics)
+5. [Characters & Classes](#characters-classes)
+6. [Combat & Magic](#combat-magic)
+7. [World & Setting](#world-setting)
+8. [Contributing](#contributing)
+9. [License](#license)
+10. [Contact](#contact)
+11. [Acknowledgements](#acknowledgements)
 
 # Introduction 🏰🐉
 # ChatGPT RPG: An Interactive Text-Based Adventure 
