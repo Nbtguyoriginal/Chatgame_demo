@@ -3,7 +3,7 @@
 1. [Introduction](#chatgpt-rpg-an-interactive-text-based-adventure)
 2. [Game Status](#game-status)
 3. [Dive into the Adventure](#Dive-into-the-Adventure)
-4. [Game Overview & Mechanics](#Game-Overview-&-Mechanics)
+4. [Game Overview & Mechanics](#Game-Overview-Mechanics)
 5. [Characters & Classes](#characters-classes)
 6. [Combat & Magic](#combat-magic)
 7. [World & Setting](#world-setting)
@@ -64,7 +64,7 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
 
 ---
 
-#Game-Overview-&-Mechanics
+## Game Overview Mechanics
 
 <details>
     <summary>📜 Game Overview & Mechanics</summary>
