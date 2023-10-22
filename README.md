@@ -12,69 +12,60 @@
 10. [Contact](#contact)
 11. [Acknowledgements](#acknowledgements)
 
-#introduction 🏰🐉
-# ChatGPT RPG: An Interactive Text-Based Adventure 
+## ChatGPT RPG: An Interactive Text-Based Adventure 
 
 ![Stoic male looking at ancient ruins](https://sm.ign.com/ign_nordic/news/t/techland-r/techland-reveals-first-concept-art-of-its-open-world-fantasy_sy98.jpg)
 
 Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings. ChatGPT RPG is a text-based role-playing game powered by OpenAI's API. Embark on quests, interact with NPCs, and make choices that shape your destiny.
 
-<div align="center">
-#game-status
-🔵 **GAME STATUS**
-
-</div>
-
-<div align="center">
+## Game Status
 
 🟢 **Playable** 🟢
 🟢 Engaging Storyline 🟢
 🟢 Immersive Experience 🟢
 
-</div>
-
 ---
-#dive-into-the-adventure
+
 ## Dive into the Adventure 🌌
 
 ![Mage with wand](https://images.ctfassets.net/usf1vwtuqyxm/5DIhpKUsxSjdNUnosbvqy7/ded32d8c59c7338083b444ca73872a8c/hogwarts-legacy-desktop.jpg?fm)
 
-<div align="center">
+<details>
+    <summary>🚀 Experience the Game's Demo</summary>
     <details>
-        <summary>🚀 Experience the Game's Demo</summary>
+        <summary>1. Access the Prompt</summary>
+        <p><a href="https://pastebin.com/mQDnGSva" target="_blank">Click here</a> to navigate to the game's prompt on Pastebin.</p>
         <details>
-            <summary>1. Access the Prompt</summary>
-            <p><a href="https://pastebin.com/mQDnGSva" target="_blank">Click here</a> to navigate to the game's prompt on Pastebin.</p>
+            <summary>2. Copy the Text</summary>
+            <p>Once on Pastebin, select and copy all of the text.</p>
             <details>
-                <summary>2. Copy the Text</summary>
-                <p>Once on Pastebin, select and copy all of the text.</p>
+                <summary>3. Navigate to OpenAI</summary>
+                <p>In your address bar, head over to the <a href="https://auth0.openai.com" target="_blank">OpenAI login page</a>.</p>
                 <details>
-                    <summary>3. Navigate to OpenAI</summary>
-                    <p>In your address bar, head over to the <a href="https://auth0.openai.com" target="_blank">OpenAI login page</a>.</p>
+                    <summary>4. Login to OpenAI</summary>
+                    <p>Use your OpenAI credentials to log in.</p>
                     <details>
-                        <summary>4. Login to OpenAI</summary>
-                        <p>Use your OpenAI credentials to log in.</p>
+                        <summary>4.5. Choose ChatGPT Version (Optional)</summary>
+                        <p>For an enhanced experience, select ChatGPT-4 if available.</p>
                         <details>
-                            <summary>4.5. Choose ChatGPT Version (Optional)</summary>
-                            <p>For an enhanced experience, select ChatGPT-4 if available.</p>
-                            <details>
-                                <summary>5. Paste & Play</summary>
-                                <p>Once logged in, paste the copied text into the chat interface and embark on your journey!</p>
-                            </details>
+                            <summary>5. Paste & Play</summary>
+                            <p>Once logged in, paste the copied text into the chat interface and embark on your journey!</p>
                         </details>
                     </details>
                 </details>
             </details>
         </details>
     </details>
-</div>
-
+</details>
 
 ![A scenic overview of the countryside with a carriage and gracious hills](https://i0.wp.com/news.qoo-app.com/en/wp-content/uploads/sites/3/2023/05/QooApp_Project-ME_-0.jpeg?resize=900%2C394&ssl=1)
 
 [🔗 **ChatGPT RPG Demo**](https://pastebin.com/mQDnGSva)
 
-#game-overview-mechanics
+---
+
+## Game Overview & Mechanics
+
 <details>
     <summary>📜 Game Overview & Mechanics</summary>
     
@@ -114,7 +105,7 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
 </details>
 
 ---
-#characters-classes
+
 ## Characters & Classes 🏹
 
 ![Archer fighting birds](https://cdn.mos.cms.futurecdn.net/DCqQRAuKCt2bLQcdU4ZZyU.jpg)
@@ -151,10 +142,8 @@ In the vast world of ChatGPT RPG, players can embody a plethora of characters, e
     </ul>
 </details>
 
-
 ---
 
-#combat-magic
 ## Combat & Magic 🐉
 
 ![Rider fighting a dragon](https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/03/best-open-world-games-2022.jpg)
@@ -193,7 +182,6 @@ Step into the arena of ChatGPT RPG, where every battle is a dance of strategy, s
 
 ---
 
-#world-setting
 ## World & Setting 🌍
 
 ![Stoic male looking at ancient ruins](https://sm.ign.com/ign_nordic/news/t/techland-r/techland-reveals-first-concept-art-of-its-open-world-fantasy_sy98.jpg)
@@ -231,8 +219,9 @@ Journey through the vast landscapes of ChatGPT RPG, a world teeming with lore, l
 </details>
 
 ---
-#contributing
-# Contributing 🙏
+
+## Contributing 🙏
+
 ![How to share ChatGPT conversation](https://techwiser.com/wp-content/uploads/2023/09/share-option-on-ChatGPT-1-1024x659.jpg)
 
 Join the ranks of adventurers who've shaped the ChatGPT RPG universe. Your tales, feedback, and insights breathe life into this world, and we invite you to be a part of its ongoing creation.
@@ -269,16 +258,14 @@ Join the ranks of adventurers who've shaped the ChatGPT RPG universe. Your tales
     Your transparency helps maintain the balance and continuity of the ChatGPT RPG universe.
 </details>
 
-
 ---
 
-#license
 ## License 📜
 
 This project is open-source and available under the MIT License.
 
 ---
-#contact
+
 ## Contact 📞
 
 For inquiries, feedback, or bug reports, please reach out.
@@ -287,8 +274,7 @@ For inquiries, feedback, or bug reports, please reach out.
 
 ---
 
-#acknowledgements
-# Acknowledgements 🌟
+## Acknowledgements 🌟
 
 ![Gratitude and Appreciation](https://t4.ftcdn.net/jpg/04/93/32/71/360_F_493327164_dusWXA61QV1GlAN2s62DZMmEO4sTfuXB.jpg)
 
