@@ -12,6 +12,38 @@
 10. [Contact](#contact)
 11. [Acknowledgements](#acknowledgements)
 
+## 🎮 Dive into the Adventure 
+
+![Adventure Demo Screen](https://storage.googleapis.com/website-production/uploads/2023/04/how-to-build-demo-landing-pages.webp)
+
+<details>
+    <summary>🚀 Click to Experience the Game's Demo</summary>
+    <details>
+        <summary>🎲 Fancy RPG games?</summary>
+        <p><a href="#">You're in the right place!</a></p>
+        <details>
+            <summary>🔍 Note: This repo is in beta</summary>
+            <p>Stay tuned for more updates!</p>
+            <details>
+                <summary>🔧 Many updates are nearing completion!</summary>
+                <p>Share your adventures and feedback to help us refine the experience.</p>
+                <details>
+                    <summary>📜 Setup Instructions</summary>
+                    <p>Follow the steps below to get started.</p>
+                    <details>
+                        <summary>🤝 We Welcome Contributors & Feedback</summary>
+                        <p>For an enhanced experience, select ChatGPT-4 if available.</p>
+                        <details>
+                            <summary>📌 Paste & Play</summary>
+                            <p>Once logged in, paste the copied text into the chat interface and embark on your journey!</p>
+                        </details>
+                    </details>
+                </details>
+            </details>
+        </details>
+    </details>
+</details>
+
 ## ChatGPT RPG: An Interactive Text-Based Adventure 
 
 ![Stoic male looking at ancient ruins](https://sm.ign.com/ign_nordic/news/t/techland-r/techland-reveals-first-concept-art-of-its-open-world-fantasy_sy98.jpg)
