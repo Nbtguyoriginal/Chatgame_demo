@@ -1,18 +1,19 @@
 # Table of Contents
 
-1. [Introduction](#chatgpt-rpg-an-interactive-text-based-adventure-🏰🐉)
-2. [Game Status](#🔵-game-status)
-3. [Dive into the Adventure](#🌌-dive-into-the-adventure)
-4. [Game Overview & Mechanics](#📜-game-overview--mechanics)
-5. [Characters & Classes](#🏹-characters--classes)
-6. [Combat & Magic](#🐉-combat--magic)
-7. [World & Setting](#🌍-world--setting)
-8. [Contributing](#🙏-contributing)
-9. [License](#license)
-10. [Contact](#📞-contact)
-11. [Acknowledgements](#🌟-acknowledgements)
+1. [Introduction](#introduction-🏰🐉)
+2. [Game Status](#game-status-🔵)
+3. [Dive into the Adventure](#dive-into-the-adventure-🌌)
+4. [Game Overview & Mechanics](#game-overview-mechanics-📜)
+5. [Characters & Classes](#characters-classes-🏹)
+6. [Combat & Magic](#combat-magic-🐉)
+7. [World & Setting](#world-setting-🌍)
+8. [Contributing](#contributing-🙏)
+9. [License](#license-📜)
+10. [Contact](#contact-📞)
+11. [Acknowledgements](#acknowledgements-🌟)
 
-# ChatGPT RPG: An Interactive Text-Based Adventure 🏰🐉
+# Introduction 🏰🐉
+# ChatGPT RPG: An Interactive Text-Based Adventure 
 
 ![Stoic male looking at ancient ruins](https://sm.ign.com/ign_nordic/news/t/techland-r/techland-reveals-first-concept-art-of-its-open-world-fantasy_sy98.jpg)
 
@@ -34,7 +35,7 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
 
 ---
 
-## 🌌 Dive into the Adventure
+## Dive into the Adventure 🌌
 
 ![Mage with wand](https://images.ctfassets.net/usf1vwtuqyxm/5DIhpKUsxSjdNUnosbvqy7/ded32d8c59c7338083b444ca73872a8c/hogwarts-legacy-desktop.jpg?fm)
 
@@ -113,7 +114,7 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
 
 ---
 
-## 🏹 Characters & Classes
+## Characters & Classes 🏹
 
 ![Archer fighting birds](https://cdn.mos.cms.futurecdn.net/DCqQRAuKCt2bLQcdU4ZZyU.jpg)
 
@@ -152,7 +153,7 @@ In the vast world of ChatGPT RPG, players can embody a plethora of characters, e
 
 ---
 
-## 🐉 Combat & Magic
+## Combat & Magic 🐉
 
 ![Rider fighting a dragon](https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/03/best-open-world-games-2022.jpg)
 
@@ -190,7 +191,7 @@ Step into the arena of ChatGPT RPG, where every battle is a dance of strategy, s
 
 ---
 
-## 🌍 World & Setting
+## World & Setting 🌍
 
 ![Stoic male looking at ancient ruins](https://sm.ign.com/ign_nordic/news/t/techland-r/techland-reveals-first-concept-art-of-its-open-world-fantasy_sy98.jpg)
 
@@ -228,8 +229,7 @@ Journey through the vast landscapes of ChatGPT RPG, a world teeming with lore, l
 
 ---
 
-# 🙏 Contributing
-
+# Contributing 🙏
 ![How to share ChatGPT conversation](https://techwiser.com/wp-content/uploads/2023/09/share-option-on-ChatGPT-1-1024x659.jpg)
 
 Join the ranks of adventurers who've shaped the ChatGPT RPG universe. Your tales, feedback, and insights breathe life into this world, and we invite you to be a part of its ongoing creation.
@@ -269,13 +269,13 @@ Join the ranks of adventurers who've shaped the ChatGPT RPG universe. Your tales
 
 ---
 
-## License
+## License 📜
 
 This project is open-source and available under the MIT License.
 
 ---
 
-## 📞 Contact
+## Contact 📞
 
 For inquiries, feedback, or bug reports, please reach out.
 
@@ -283,7 +283,7 @@ For inquiries, feedback, or bug reports, please reach out.
 
 ---
 
-# 🌟 Acknowledgements
+# Acknowledgements 🌟
 
 ![Gratitude and Appreciation](https://t4.ftcdn.net/jpg/04/93/32/71/360_F_493327164_dusWXA61QV1GlAN2s62DZMmEO4sTfuXB.jpg)
 
