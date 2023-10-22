@@ -1,7 +1,7 @@
 # Table of Contents
 
-1. [Introduction](#introduction)
-2. [Game Status](#game-status-🔵)
+1. [Introduction](#chatgpt-rpg-an-interactive-text-based-adventure)
+2. [Game Status](#game-status)
 3. [Dive into the Adventure](#dive-into-the-adventure)
 4. [Game Overview & Mechanics](#game-overview-mechanics)
 5. [Characters & Classes](#characters-classes)
