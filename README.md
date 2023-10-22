@@ -35,7 +35,7 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
                 <p>Once on Pastebin, select and copy all of the text.</p>
                 <details>
                     <summary>3. Navigate to OpenAI</summary>
-                    <p>In your address bar, head over to the <a href="[https://auth0.openai.com/u/login/identifier?state=hKFo2SBNUTJZSVJZTmgtbWdaLW41OHBZRWdDMFk1ZGhkTWFaMaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGtiUGlSeERnazA3N3lJMTJZWmFSeWFMSG9ZX1Fwby1Yo2NpZNkgRFJpdnNobTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q](https://auth0.openai.com/u/login/identifier?state=hKFo2SBNUTJZSVJZTmgtbWdaLW41OHBZRWdDMFk1ZGhkTWFaMaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGtiUGlSeERnazA3N3lJMTJZWmFSeWFMSG9ZX1Fwby1Yo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q)" target="_blank">OpenAI login page</a>.</p>
+                    <p>In your address bar, head over to the <a href="https://auth0.openai.com/u/login/identifier?state=hKFo2SBNUTJZSVJZTmgtbWdaLW41OHBZRWdDMFk1ZGhkTWFaMaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGtiUGlSeERnazA3N3lJMTJZWmFSeWFMSG9ZX1Fwby1Yo2NpZNkgRFJpdnNobTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q" target="_blank">OpenAI login page</a>.</p>
                     <details>
                         <summary>4. Login to OpenAI</summary>
                         <p>Use your OpenAI credentials to log in.</p>
@@ -53,6 +53,7 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
         </details>
     </details>
 </div>
+
 
 
 ![A scenic overview of the countryside with a carriage and gracious hills](https://i0.wp.com/news.qoo-app.com/en/wp-content/uploads/sites/3/2023/05/QooApp_Project-ME_-0.jpeg?resize=900%2C394&ssl=1)
