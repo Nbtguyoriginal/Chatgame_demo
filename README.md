@@ -20,7 +20,7 @@
 Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings. ChatGPT RPG is a text-based role-playing game powered by OpenAI's API. Embark on quests, interact with NPCs, and make choices that shape your destiny.
 
 <div align="center">
-
+#game-status
 🔵 **GAME STATUS**
 
 </div>
@@ -34,7 +34,7 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
 </div>
 
 ---
-
+#dive-into-the-adventure
 ## Dive into the Adventure 🌌
 
 ![Mage with wand](https://images.ctfassets.net/usf1vwtuqyxm/5DIhpKUsxSjdNUnosbvqy7/ded32d8c59c7338083b444ca73872a8c/hogwarts-legacy-desktop.jpg?fm)
@@ -74,6 +74,7 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
 
 [🔗 **ChatGPT RPG Demo**](https://pastebin.com/mQDnGSva)
 
+#game-overview-mechanics
 <details>
     <summary>📜 Game Overview & Mechanics</summary>
     
@@ -113,7 +114,7 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
 </details>
 
 ---
-
+#characters-classes
 ## Characters & Classes 🏹
 
 ![Archer fighting birds](https://cdn.mos.cms.futurecdn.net/DCqQRAuKCt2bLQcdU4ZZyU.jpg)
@@ -153,6 +154,7 @@ In the vast world of ChatGPT RPG, players can embody a plethora of characters, e
 
 ---
 
+#combat-magic
 ## Combat & Magic 🐉
 
 ![Rider fighting a dragon](https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/03/best-open-world-games-2022.jpg)
@@ -191,6 +193,7 @@ Step into the arena of ChatGPT RPG, where every battle is a dance of strategy, s
 
 ---
 
+#world-setting
 ## World & Setting 🌍
 
 ![Stoic male looking at ancient ruins](https://sm.ign.com/ign_nordic/news/t/techland-r/techland-reveals-first-concept-art-of-its-open-world-fantasy_sy98.jpg)
@@ -228,7 +231,7 @@ Journey through the vast landscapes of ChatGPT RPG, a world teeming with lore, l
 </details>
 
 ---
-
+#contributing
 # Contributing 🙏
 ![How to share ChatGPT conversation](https://techwiser.com/wp-content/uploads/2023/09/share-option-on-ChatGPT-1-1024x659.jpg)
 
@@ -269,12 +272,13 @@ Join the ranks of adventurers who've shaped the ChatGPT RPG universe. Your tales
 
 ---
 
+#license
 ## License 📜
 
 This project is open-source and available under the MIT License.
 
 ---
-
+#contact
 ## Contact 📞
 
 For inquiries, feedback, or bug reports, please reach out.
@@ -283,6 +287,7 @@ For inquiries, feedback, or bug reports, please reach out.
 
 ---
 
+#acknowledgements
 # Acknowledgements 🌟
 
 ![Gratitude and Appreciation](https://t4.ftcdn.net/jpg/04/93/32/71/360_F_493327164_dusWXA61QV1GlAN2s62DZMmEO4sTfuXB.jpg)
