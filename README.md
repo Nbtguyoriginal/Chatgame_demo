@@ -260,7 +260,7 @@ Join the ranks of adventurers who've shaped the ChatGPT RPG universe. Your tales
 
 ---
 
-## License 📜
+## License 
 
 This project is open-source and available under the MIT License.
 
