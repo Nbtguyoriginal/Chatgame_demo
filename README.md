@@ -8,7 +8,7 @@
 6. [Combat & Magic](#🐉-combat--magic)
 7. [World & Setting](#🌍-world--setting)
 8. [Contributing](#🙏-contributing)
-9. [License](#📜-license)
+9. [License](#license)
 10. [Contact](#📞-contact)
 11. [Acknowledgements](#🌟-acknowledgements)
 
@@ -269,7 +269,7 @@ Join the ranks of adventurers who've shaped the ChatGPT RPG universe. Your tales
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and available under the MIT License.
 
