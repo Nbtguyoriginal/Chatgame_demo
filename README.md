@@ -64,7 +64,7 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
 
 ---
 
-## Game Overview Mechanics
+## Game Overview & Mechanics
 
 <details>
     <summary>📜 Game Overview & Mechanics</summary>
