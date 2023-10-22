@@ -106,7 +106,7 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
 
 ---
 
-## Characters & Classes 🏹
+## Characters & Classes 
 
 ![Archer fighting birds](https://cdn.mos.cms.futurecdn.net/DCqQRAuKCt2bLQcdU4ZZyU.jpg)
 
@@ -144,7 +144,7 @@ In the vast world of ChatGPT RPG, players can embody a plethora of characters, e
 
 ---
 
-## Combat & Magic 🐉
+## Combat & Magic 
 
 ![Rider fighting a dragon](https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/03/best-open-world-games-2022.jpg)
 
@@ -182,7 +182,7 @@ Step into the arena of ChatGPT RPG, where every battle is a dance of strategy, s
 
 ---
 
-## World & Setting 🌍
+## World & Setting 
 
 ![Stoic male looking at ancient ruins](https://sm.ign.com/ign_nordic/news/t/techland-r/techland-reveals-first-concept-art-of-its-open-world-fantasy_sy98.jpg)
 
@@ -220,7 +220,7 @@ Journey through the vast landscapes of ChatGPT RPG, a world teeming with lore, l
 
 ---
 
-## Contributing 🙏
+## Contributing 
 
 ![How to share ChatGPT conversation](https://techwiser.com/wp-content/uploads/2023/09/share-option-on-ChatGPT-1-1024x659.jpg)
 
@@ -266,7 +266,7 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## Contact 📞
+## Contact 
 
 For inquiries, feedback, or bug reports, please reach out.
 
@@ -274,7 +274,7 @@ For inquiries, feedback, or bug reports, please reach out.
 
 ---
 
-## Acknowledgements 🌟
+## Acknowledgements 
 
 ![Gratitude and Appreciation](https://t4.ftcdn.net/jpg/04/93/32/71/360_F_493327164_dusWXA61QV1GlAN2s62DZMmEO4sTfuXB.jpg)
 
