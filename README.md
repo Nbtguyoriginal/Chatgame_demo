@@ -269,7 +269,22 @@ Join the ranks of adventurers who've shaped the ChatGPT RPG universe. Your tales
         <li>Disseminate your tale by pasting the link wherever tales of valor are celebrated.</li>
     </ul>
     By sharing your chronicles, you aid us in refining the tapestry of this game, ensuring that every bard sings of your deeds.
+    <br><br>
+    To share your link on GitHub:
+    <ul>
+        <li>Navigate to the main page of the repository.</li>
+        <li>Click on the "Issues" tab located near the top of the page.</li>
+        <li>Click on the "New Issue" button to create a new issue.</li>
+        <li>In the issue body, paste your link and provide a brief description.</li>
+        <li>Submit the issue. Your link will now be shared with the community.</li>
+    </ul>
+    To check if your message link got added to the GitHub wiki:
+    <ul>
+        <li>From the main page of the repository, click on the "Wiki" tab located near the top.</li>
+        <li>Browse the wiki pages or use the search bar to find mentions of your link or related content.</li>
+    </ul>
 </details>
+
 
 <details>
     <summary>🖋️ Suggest Improvements</summary>
