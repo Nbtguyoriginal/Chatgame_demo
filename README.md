@@ -53,8 +53,10 @@ Dive into a world inspired by the realms of Elder Scrolls and Lord of the Rings.
 ## Game Status
 
 ⭕️📛 **UNDER DEVELOPMENT** ⭕️📛
-🟢 Engaging Storyline 🟢
-🟢 Immersive Experience 🟢
+
+ 🟢 Engaging Storyline 🟢
+
+ 🟢 Immersive Experience 🟢
 
 ---
 
