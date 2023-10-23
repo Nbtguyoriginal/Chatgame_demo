@@ -6,6 +6,8 @@ import os
 from collections import OrderedDict
 import config
 import random
+import re
+from game_master import GameMaster
 
 # OpenAI API Key
 openai.api_key = config.OPENAI_API_KEY
@@ -38,6 +40,7 @@ class LRUCache:
 cache = LRUCache(100)
 turn_counter = 0
 game_state = "start"
+game_master = GameMaster()
 
 # Create directories if they don't exist
 directories = [config.PLAYER_DIR, config.ENEMY_DIR, config.NPC_DIR, config.LOCATION_DIR, config.QUEST_DIR, config.SPELL_DIR, config.GAME_STATE_DIR]
@@ -69,6 +72,22 @@ chat_window.configure(state=tk.DISABLED)
 entry_box = tk.Text(root, wrap=tk.WORD, width=45, height=5, font=("Arial", 10))
 entry_box.pack(pady=10)
 
+# Function to extract game state from ChatGPT response
+def extract_game_state(response):
+    patterns = {
+        "turn": r"Turn: (\d+)",
+        "time": r"Time: ([\w\s]+)",
+        # Add more patterns as needed
+    }
+
+    extracted_data = {}
+    for key, pattern in patterns.items():
+        match = re.search(pattern, response)
+        if match:
+            extracted_data[key] = match.group(1)
+
+    return extracted_data
+
 # Function to handle sending a message
 def send():
     global turn_counter, game_state
@@ -86,27 +105,21 @@ def send():
         if cached_response:
             bot_response = cached_response
         else:
-            # Integrate combat and NPC interactions here
-            if "attack" in msg:
-                # Placeholder for combat logic
-                damage = random.randint(5, 20)  # Example damage calculation
-                bot_response = f"You attacked and dealt {damage} damage."
-            elif "talk to" in msg:
-                # Placeholder for NPC interaction logic
-                bot_response = "The NPC shares some valuable information with you."
-            else:
-                response = openai.Completion.create(
-                    model="gpt-3.5-turbo",
-                    prompt=f"{game_prompt}\n\nUser: {msg}\nGrimblood:",
-                    max_tokens=150
-                )
-                bot_response = response.choices[0].text.strip()
+            response = openai.Completion.create(
+                model="gpt-3.5-turbo",
+                prompt=f"{game_prompt}\n\nUser: {msg}\nGrimblood:",
+                max_tokens=150
+            )
+            bot_response = response.choices[0].text.strip()
             cache.set(cache_key, bot_response)
 
         chat_window.configure(state=tk.NORMAL)
         chat_window.insert(tk.END, f"Grimblood: {bot_response}\n")
         chat_window.configure(state=tk.DISABLED)
         chat_window.see(tk.END)
+
+        game_state_data = extract_game_state(bot_response)
+        game_master.update_game_state(game_state_data)
 
         turn_counter += 1
         if turn_counter > 10:
