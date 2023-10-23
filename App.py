@@ -5,6 +5,7 @@ import json
 import os
 from collections import OrderedDict
 import config
+import random
 
 # OpenAI API Key
 openai.api_key = config.OPENAI_API_KEY
@@ -73,6 +74,7 @@ def send():
     global turn_counter, game_state
     msg = entry_box.get("1.0", 'end-1c').strip()
     entry_box.delete("1.0", tk.END)
+    
     if msg:
         chat_window.configure(state=tk.NORMAL)
         chat_window.insert(tk.END, f"You: {msg}\n")
@@ -84,21 +86,30 @@ def send():
         if cached_response:
             bot_response = cached_response
         else:
-            response = openai.Completion.create(
-                model="gpt-3.5-turbo",
-                prompt=f"{game_prompt}\n\nUser: {msg}\nGrimblood:",
-                max_tokens=150
-            )
-            bot_response = response.choices[0].text.strip()
+            # Integrate combat and NPC interactions here
+            if "attack" in msg:
+                # Placeholder for combat logic
+                damage = random.randint(5, 20)  # Example damage calculation
+                bot_response = f"You attacked and dealt {damage} damage."
+            elif "talk to" in msg:
+                # Placeholder for NPC interaction logic
+                bot_response = "The NPC shares some valuable information with you."
+            else:
+                response = openai.Completion.create(
+                    model="gpt-3.5-turbo",
+                    prompt=f"{game_prompt}\n\nUser: {msg}\nGrimblood:",
+                    max_tokens=150
+                )
+                bot_response = response.choices[0].text.strip()
             cache.set(cache_key, bot_response)
 
         chat_window.configure(state=tk.NORMAL)
-        chat_window.insert(tk.END, f"Bot: {bot_response}\n")
+        chat_window.insert(tk.END, f"Grimblood: {bot_response}\n")
         chat_window.configure(state=tk.DISABLED)
         chat_window.see(tk.END)
 
         turn_counter += 1
-        if turn_counter > 10:  # Example condition to change game state or provide hints
+        if turn_counter > 10:
             game_state = "next_phase"
             chat_window.insert(tk.END, f"Hint: Try doing something different.\n")
 
@@ -106,4 +117,5 @@ def send():
 send_button = tk.Button(root, text="Send", font=("Arial", 12), command=send)
 send_button.pack(pady=10)
 
+# Starting the Tkinter main loop
 root.mainloop()
