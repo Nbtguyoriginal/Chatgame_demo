@@ -21,3 +21,28 @@ patterns = {
     "commands": r"Commands:\s*\n(.*?)(?:\n-{3,}|\Z)"
 }
 
+# Example formats for missing game data
+example_formats = {
+    "turn": "Turn: 1",
+    "time": "Time: Morning",
+    "day": "Day: 1",
+    "weather": "Weather: Sunny",
+    "health": "Health: 100/100",
+    "xp": "XP: 0",
+    "ac": "AC: 10",
+    "level": "Level: 1",
+    "location": "Location: Village Center",
+    "gold": "Gold: 10",
+    "silver": "Silver: 50",
+    "bronze": "Bronze: 100",
+    "wearing": "Wearing: Simple Tunic, Leather Boots",
+    "wielding": "Wielding: Iron Sword",
+    "status_effects": "Status Effects: None",
+    "description": "Description: A quiet village square.",
+    "inventory": "Inventory: [List items]",
+    "abilities": "Abilities: Strength (10), Intelligence (8)",
+    "quest": "Quest: Seek the elder.",
+    "commands": "Commands: 1. Walk around, 2. Talk to villagers"
+}
+
+
